@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="unit1">
+        <item>m</item>
+        <item>km</item>
+        <item>cm</item>
+        <item>ft</item>
+        <item>inch</item>
+        <item>mile</item>
+        <item>yard</item>
+    </string-array>
+    <string-array name="options">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+</resources>
